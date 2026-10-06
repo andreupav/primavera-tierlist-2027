@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Primavera 2027 · La teva tier list</title>
+<meta name="description" content="Fes la teva tier list dels artistes del cartell del Primavera Sound 2027. Arrossega, classifica i exporta-la.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2317181e'/%3E%3Cpath d='M7 8h18M7 16h18M7 24h18' stroke='%23edebdf' stroke-width='3'/%3E%3Ccircle cx='9' cy='8' r='4' fill='%23fa6963'/%3E%3Ccircle cx='9' cy='16' r='4' fill='%23f3dc63'/%3E%3Ccircle cx='9' cy='24' r='4' fill='%238ccbb0'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css"><script src="artists.js" defer></script><script src="photos.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+<header class="topbar"><a href="./" class="brand" aria-label="Primavera tier list"><span class="brand-dot"></span>primavera<span class="brand-thin">/ tier list</span></a><span class="edition">BARCELONA <b>2027</b></span></header>
+<main>
+<section class="intro"><div><p class="eyebrow">EL CARTELL, AL TEU CRITERI</p><h1>Qui et farà ser a primera fila<span class="question">?</span></h1><p class="instructions">Arrossega els artistes a un nivell. O toca una targeta per classificar-la.</p></div><div class="poster-dots" aria-hidden="true"><i></i><i></i><i></i><i></i></div></section>
+<div class="workspace">
+<section class="ranking" aria-labelledby="ranking-title">
+<div class="section-bar"><div><h2 id="ranking-title">La meva tier list</h2><span id="progress">0 artistes classificats</span></div><div class="actions"><button id="undo" class="icon-button" aria-label="Desfer l'últim canvi" title="Desfer l'últim canvi" disabled>↶</button><button id="reset" class="icon-button" aria-label="Reiniciar la llista" title="Reiniciar la llista">↺</button><button id="export" class="export-button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 16v5h16v-5"/></svg>Exporta PNG</button></div></div>
+<div id="board" class="board"></div>
+<div class="board-footer"><span id="save-status">Desat en aquest navegador</span><span>Toca el nom d’un nivell per editar-lo</span></div>
+</section>
+<aside class="artist-panel" aria-labelledby="artists-title"><div class="panel-heading"><h2 id="artists-title">Per classificar</h2><span id="remaining" class="count"></span></div><label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="Busca un artista…" aria-label="Busca un artista"></label><div class="filters" aria-label="Filtra els artistes"><button data-filter="all" aria-pressed="true">Tots</button><button data-filter="festival" aria-pressed="false">Festival</button><button data-filter="city" aria-pressed="false">Ciutat</button><button data-filter="bits" aria-pressed="false">Bits</button></div><div id="pool" class="pool" data-zone="pool" aria-label="Artistes per classificar"></div><div class="pool-foot"><span class="small-dot"></span>Encara no els coneixes? El nivell «Per descobrir» és teu.</div></aside>
+</div>
+<footer><span>FET PER TRIAR. PREPARAT PER DISCREPAR.</span><p>A partir del cartell compartit · Projecte no oficial de Primavera Sound</p></footer>
+</main>
+<dialog id="dialog" aria-labelledby="dialog-title"><div class="dialog-head"><h2 id="dialog-title"></h2><button id="close-dialog" class="icon-button" aria-label="Tanca">×</button></div><div id="dialog-body"></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+</body></html>

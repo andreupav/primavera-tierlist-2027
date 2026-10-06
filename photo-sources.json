@@ -1,0 +1,1239 @@
+[
+  {
+    "artist_id": "a10",
+    "name": "Lola Young",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/LolaYoungKings170925_%2811_of_26%29_-_54793834792_%28cropped%29.jpg/330px-LolaYoungKings170925_%2811_of_26%29_-_54793834792_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "src": "photos/a10.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:LolaYoungKings170925_(11_of_26)_-_54793834792_(cropped).jpg",
+    "credit": "Foto: Raph_PH",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Miniatura retallada i reduïda"
+  },
+  {
+    "artist_id": "a22",
+    "name": "ANOHNI",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Antony_and_the_Johnsons_%283838321159%29.jpg/330px-Antony_and_the_Johnsons_%283838321159%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "src": "photos/a22.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Antony_and_the_Johnsons_(3838321159).jpg",
+    "credit": "Foto: Juan Bendana",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "Miniatura retallada i reduïda"
+  },
+  {
+    "artist_id": "a151",
+    "name": "Richie Hawtin",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Richie_Hawtin_%40_Fabric.JPG/330px-Richie_Hawtin_%40_Fabric.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "src": "photos/a151.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Richie_Hawtin_%40_Fabric.JPG",
+    "credit": "Foto: Raminta Malinauskaite",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Miniatura retallada i reduïda"
+  },
+  {
+    "artist_id": "a0",
+    "name": "Doechii",
+    "image_url": "https://assets.primaverasound.com/psweb/3uwf3j6n6m3f47bisqa2_1791102817417.jpeg",
+    "src": "photos/a0.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/doechii",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a1",
+    "name": "Phoebe Bridgers",
+    "image_url": "https://assets.primaverasound.com/psweb/djs2k69kzx1kyrt5jpjt_1791134624664.jpg",
+    "src": "photos/a1.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/phoebe-bridgers",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a2",
+    "name": "Fontaines D.C.",
+    "image_url": "https://assets.primaverasound.com/psweb/5cyaa1ce84s974swmf0c_1790944541418.jpeg",
+    "src": "photos/a2.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/fontaines-dc",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a3",
+    "name": "Hayley Williams",
+    "image_url": "https://assets.primaverasound.com/psweb/51fvz6mailc70wpa8zue_1791112493892.jpeg",
+    "src": "photos/a3.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/hayley-williams",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a4",
+    "name": "FKA twigs",
+    "image_url": "https://assets.primaverasound.com/psweb/r6tzit7jkwueronl2tx4_1791205008836.jpg",
+    "src": "photos/a4.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/fka-twigs",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a5",
+    "name": "Turnstile",
+    "image_url": "https://assets.primaverasound.com/psweb/v3q0cp8962v2nrk12bda_1790954520998.jpg",
+    "src": "photos/a5.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/turnstile",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a6",
+    "name": "Massive Attack",
+    "image_url": "https://assets.primaverasound.com/psweb/2ynrzl4w9rbrbx2ksm0d_1791194390128.jpeg",
+    "src": "photos/a6.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/massive-attack",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a7",
+    "name": "The Chemical Brothers",
+    "image_url": "https://assets.primaverasound.com/psweb/2szeefhfist432ztddhe_1791103047417.jpg",
+    "src": "photos/a7.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/the-chemical-brothers",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a8",
+    "name": "Robyn",
+    "image_url": "https://assets.primaverasound.com/psweb/k5i7agw4e5f7xzwd2gjg_1790955525374.jpg",
+    "src": "photos/a8.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/robyn",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a9",
+    "name": "Bad Gyal",
+    "image_url": "https://assets.primaverasound.com/psweb/pr2elf9y4rn26gugyrys_1790940119543.jpg",
+    "src": "photos/a9.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/bad-gyal",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a11",
+    "name": "Adéla",
+    "image_url": "https://assets.primaverasound.com/psweb/wytyjsi8wq1wei3e85r6_1791208082012.jpg",
+    "src": "photos/a11.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/adela",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a12",
+    "name": "Caroline Polachek",
+    "image_url": "https://assets.primaverasound.com/psweb/5eifla4jn2i66m520ueo_1790941874651.jpeg",
+    "src": "photos/a12.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/caroline-polachek",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a13",
+    "name": "Prospa",
+    "image_url": "https://assets.primaverasound.com/psweb/hfdxp4gfnvyis0xtwgrj_1790957702705.jpg",
+    "src": "photos/a13.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/prospa",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a14",
+    "name": "Skrillex b2b Ninajirachi",
+    "image_url": "https://assets.primaverasound.com/psweb/7ok2jto0ura8xb3ijst9_1791205990040.jpg",
+    "src": "photos/a14.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/skrillex-b2b-ninajirachi",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a15",
+    "name": "Pavement",
+    "image_url": "https://assets.primaverasound.com/psweb/adqbwsaz236vrujwe16w_1651747295294.jpg",
+    "src": "photos/a15.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/pavement",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a16",
+    "name": "King Gizzard & The Lizard Wizard",
+    "image_url": "https://assets.primaverasound.com/psweb/t6em5556oan7g96i0tv8_1791130436731.jpg",
+    "src": "photos/a16.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/king-gizzard-and-the-lizard-wizard",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a17",
+    "name": "Tinashe",
+    "image_url": "https://assets.primaverasound.com/psweb/4rvjxr06nbmuci37lrp1_1791102917129.jpeg",
+    "src": "photos/a17.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/tinashe",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a18",
+    "name": "Underworld",
+    "image_url": "https://assets.primaverasound.com/psweb/2o3kmyvef2uvq6rzxbf9_1791102433289.jpg",
+    "src": "photos/a18.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/underworld",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a19",
+    "name": "EsDeeKid",
+    "image_url": "https://assets.primaverasound.com/psweb/t3f7sgnuyvs6qujqtjqu_1791110563273.jpeg",
+    "src": "photos/a19.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/esdeekid",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a20",
+    "name": "Kim Petras",
+    "image_url": "https://assets.primaverasound.com/psweb/8wlo71mttctu13tyzh58_1790957607286.jpg",
+    "src": "photos/a20.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/kim-petras",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a21",
+    "name": "Bleachers",
+    "image_url": "https://assets.primaverasound.com/psweb/ikzaknilm1qth2hyrvt2_1790941641658.jpg",
+    "src": "photos/a21.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/bleachers",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a23",
+    "name": "Angine de Poitrine",
+    "image_url": "https://assets.primaverasound.com/psweb/8qchwdm0vab5rchncgv8_1791100648169.jpg",
+    "src": "photos/a23.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/angine-de-poitrine",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a24",
+    "name": "Metronomy",
+    "image_url": "https://assets.primaverasound.com/psweb/epno163zsavxro3x80n2_1791133078237.jpeg",
+    "src": "photos/a24.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/metronomy",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a25",
+    "name": "JT",
+    "image_url": "https://assets.primaverasound.com/psweb/ne8ill1xso8d54qmgyrp_1791202913987.jpeg",
+    "src": "photos/a25.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/jt",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a26",
+    "name": "Arca",
+    "image_url": "https://assets.primaverasound.com/psweb/debvkz64pi6rjhcg1li2_1790939782553.jpeg",
+    "src": "photos/a26.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/arca",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a27",
+    "name": "Isaiah Rashad",
+    "image_url": "https://assets.primaverasound.com/psweb/pd2suaq8vgdgqriip87u_1791113051296.jpg",
+    "src": "photos/a27.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/isaiah-rashad",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a28",
+    "name": "Wallows",
+    "image_url": "https://assets.primaverasound.com/psweb/rpcxo5ihgjeb70wmqisd_1791278220018.jpg",
+    "src": "photos/a28.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/wallows",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a29",
+    "name": "Theodora",
+    "image_url": "https://assets.primaverasound.com/psweb/hfhjgv2pvovttgtn9ngj_1791102997361.jpg",
+    "src": "photos/a29.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/theodora",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a30",
+    "name": "Snow Strippers",
+    "image_url": "https://assets.primaverasound.com/psweb/mlgjsnln8yo7ua02izgm_1715182593818.jpg",
+    "src": "photos/a30.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/snow-strippers",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a31",
+    "name": "Bicep",
+    "image_url": "https://assets.primaverasound.com/psweb/ledtqe38bq4epwkg545x_1658833646969.png",
+    "src": "photos/a31.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/bicep-live",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a32",
+    "name": "Shygirl",
+    "image_url": "https://assets.primaverasound.com/psweb/ooede0kqsk0cbc7inlij_1790860724745.jpg",
+    "src": "photos/a32.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/shygirl",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a33",
+    "name": "Dinosaur Jr.",
+    "image_url": "https://assets.primaverasound.com/psweb/x2lrje0naiteojqmpwwx_1790942794298.jpg",
+    "src": "photos/a33.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/dinosaur-jr",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a34",
+    "name": "HEARTS2HEARTS",
+    "image_url": "https://assets.primaverasound.com/psweb/ire2cubfw1oa4hzvwb9q_1791112704945.jpg",
+    "src": "photos/a34.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/hearts2hearts",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a35",
+    "name": "Underscores",
+    "image_url": "https://assets.primaverasound.com/psweb/qsp9brp4cmcifhxpszr6_1790954409133.png",
+    "src": "photos/a35.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/underscores",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a36",
+    "name": "CHVRCHES",
+    "image_url": "https://assets.primaverasound.com/psweb/c2yrbg96p1b6m8xs0zmw_1791101981280.jpg",
+    "src": "photos/a36.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/chvrches",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a37",
+    "name": "Brutalismus 3000 b2b ISOxo",
+    "image_url": "https://assets.primaverasound.com/psweb/qi2yo8rdev46r7ntrcky_1791201973678.jpg",
+    "src": "photos/a37.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/brutalismus-3000-b2b-isoxo",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a38",
+    "name": "MUNA",
+    "image_url": "https://assets.primaverasound.com/psweb/o54yadj1am8w16gz3gcn_1791133892682.jpeg",
+    "src": "photos/a38.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/muna",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a39",
+    "name": "Metrika",
+    "image_url": "https://assets.primaverasound.com/psweb/hyt7zh79g5l8dnlg1if5_1791132556295.jpg",
+    "src": "photos/a39.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/metrika",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a40",
+    "name": "Boy Harsher",
+    "image_url": "https://assets.primaverasound.com/psweb/tme0i58qypxoktzyejl4_1790941795110.jpg",
+    "src": "photos/a40.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/boy-harsher",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a41",
+    "name": "Akrilla",
+    "image_url": "https://assets.primaverasound.com/psweb/o1r8hhvztp6cx413x6kq_1791099868587.jpg",
+    "src": "photos/a41.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/akriila",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a42",
+    "name": "PabloPablo",
+    "image_url": "https://assets.primaverasound.com/psweb/fmjoc5xy0eam269goai6_1791134442052.jpeg",
+    "src": "photos/a42.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/pablopablo",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a43",
+    "name": "Bonnie “Prince” Billy",
+    "image_url": "https://assets.primaverasound.com/psweb/3ljp4qf85sgqxocaoqz1_1791101810852.jpg",
+    "src": "photos/a43.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/bonnie-prince-billy",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a44",
+    "name": "Vashti Bunyan",
+    "image_url": "https://assets.primaverasound.com/psweb/qqyw3wyc830u1rnqlh88_1791102319111.jpg",
+    "src": "photos/a44.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/vashti-bunyan",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a45",
+    "name": "Weyes Blood",
+    "image_url": "https://assets.primaverasound.com/psweb/r5j6x1csvwhk731tn0h0_1790954022528.jpg",
+    "src": "photos/a45.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/weyes-blood",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a46",
+    "name": "Julien Baker",
+    "image_url": "https://assets.primaverasound.com/2018/psb/images/artistas/JULIEN_BAKER_edit_20181204204549.jpg",
+    "src": "photos/a46.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/julien-baker",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a47",
+    "name": "Joy Orbison",
+    "image_url": "https://assets.primaverasound.com/psweb/e6x1nwv98wm14jzyedck_1790955640626.jpg",
+    "src": "photos/a47.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/joy-orbison",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a48",
+    "name": "Converge",
+    "image_url": "https://assets.primaverasound.com/psweb/7w8f6me2qoa5c3jcfw3m_1791102027738.jpg",
+    "src": "photos/a48.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/converge",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a49",
+    "name": "Atlas Sound",
+    "image_url": "https://assets.primaverasound.com/psweb/4e69sl65jsuqyx43v0sg_1791200363207.jpg",
+    "src": "photos/a49.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/atlas-sound",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a50",
+    "name": "DIIV",
+    "image_url": "https://assets.primaverasound.com/psweb/rpnfthziqhtm708pkumn_1790942617151.jpg",
+    "src": "photos/a50.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/diiv",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a51",
+    "name": "Have a Nice Life",
+    "image_url": "https://assets.primaverasound.com/psweb/9pfsiynvwsvnucm10nbd_1791112441195.jpg",
+    "src": "photos/a51.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/have-a-nice-life",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a52",
+    "name": "Mushka",
+    "image_url": "https://assets.primaverasound.com/psweb/fe9mas4b4y5q4h970h1g_1700666413183.jpeg",
+    "src": "photos/a52.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/mushkaa",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a53",
+    "name": "Erin LeCount",
+    "image_url": "https://assets.primaverasound.com/psweb/z482ve5ehv97axquidjw_1791110512139.jpg",
+    "src": "photos/a53.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/erin-lecount",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a54",
+    "name": "Abhir",
+    "image_url": "https://assets.primaverasound.com/psweb/mf58xvtm6l9edd68n7gs_1791207978192.jpg",
+    "src": "photos/a54.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/abhir",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a55",
+    "name": "Santiago Motorizado",
+    "image_url": "https://assets.primaverasound.com/psweb/e7jt1925xtqsp0slqvc7_1767777954074.jpg",
+    "src": "photos/a55.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/santiago-motorizado",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a56",
+    "name": "Greg Freeman",
+    "image_url": "https://assets.primaverasound.com/psweb/nxl1k1nzw7g70phg4ttm_1791112094414.jpg",
+    "src": "photos/a56.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/greg-freeman",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a57",
+    "name": "Juana Molina",
+    "image_url": "https://assets.primaverasound.com/psweb/iqky3kalb3x4nomtvjto_1790955957749.jpg",
+    "src": "photos/a57.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/juana-molina",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a58",
+    "name": "Haute & Freddy",
+    "image_url": "https://assets.primaverasound.com/psweb/98k0hjc99unovxbfq9r1_1791112263822.jpg",
+    "src": "photos/a58.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/haute-and-freddy",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a59",
+    "name": "English Teacher",
+    "image_url": "https://assets.primaverasound.com/psweb/hi79rm4evdf9wj1q6buu_1791110460297.jpg",
+    "src": "photos/a59.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/english-teacher",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a60",
+    "name": "Sophia Stel",
+    "image_url": "https://assets.primaverasound.com/psweb/z8axfxqm24t7vorpsyus_1779212319341.png",
+    "src": "photos/a60.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/sophia-stel",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a61",
+    "name": "Westside Cowboy",
+    "image_url": "https://assets.primaverasound.com/psweb/hmqbrv4nt1q3vntfw3pt_1791101822554.jpg",
+    "src": "photos/a61.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/westside-cowboy",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a62",
+    "name": "Racing Mount Pleasant",
+    "image_url": "https://assets.primaverasound.com/psweb/a5ndzez37yq3r17dj34z_1791103343388.jpg",
+    "src": "photos/a62.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/racing-mount-pleasant",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a63",
+    "name": "ear",
+    "image_url": "https://assets.primaverasound.com/psweb/t3x5yoqwzmn6xowjoksg_1791109976337.jpg",
+    "src": "photos/a63.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/ear",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a64",
+    "name": "Castle Rat",
+    "image_url": "https://assets.primaverasound.com/psweb/29qlwvrpg06j7ieqbll6_1791101937224.jpg",
+    "src": "photos/a64.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/castle-rat",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a65",
+    "name": "Friko",
+    "image_url": "https://assets.primaverasound.com/psweb/zbkk5bv8ap7myze2unf2_1791111356051.jpg",
+    "src": "photos/a65.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/friko",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a66",
+    "name": "Lip Critic",
+    "image_url": "https://assets.primaverasound.com/psweb/5x9uusgbhpeh3sw2qn4v_1791130653367.jpeg",
+    "src": "photos/a66.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/lip-critic",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a67",
+    "name": "Gilla Band",
+    "image_url": "https://assets.primaverasound.com/psweb/je5wtzpfwuljq8rv0zme_1790945336160.jpeg",
+    "src": "photos/a67.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/gilla-band",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a68",
+    "name": "Alcalá Norte",
+    "image_url": "https://assets.primaverasound.com/psweb/d9yf3qdczl547ft4vpir_1790939099981.jpg",
+    "src": "photos/a68.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/alcala-norte",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a69",
+    "name": "@",
+    "image_url": "https://assets.primaverasound.com/psweb/8za9ym8y9c80h1163t7h_1791202982634.jpg",
+    "src": "photos/a69.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/at",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a70",
+    "name": "Jersey",
+    "image_url": "https://assets.primaverasound.com/psweb/0bc2z3blewwuyclpivvm_1790953051748.jpg",
+    "src": "photos/a70.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/jersey",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a71",
+    "name": "Los Punsetes",
+    "image_url": "https://assets.primaverasound.com/psweb/5q0cjmg82uz1zzzp1l9x_1791131679861.jpg",
+    "src": "photos/a71.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/los-punsetes",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a72",
+    "name": "Kelsey Lu",
+    "image_url": "https://assets.primaverasound.com/psweb/sr6j7smso0bjqjmp0yq4_1791130225929.jpeg",
+    "src": "photos/a72.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/kelsey-lu",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a73",
+    "name": "Alameda",
+    "image_url": "https://assets.primaverasound.com/psweb/rk4hlbtjcfmlrrg6zhqo_1791100225561.jpg",
+    "src": "photos/a73.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/alemeda",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a74",
+    "name": "Viva Belgrado",
+    "image_url": "https://assets.primaverasound.com/psweb/z3i8ussyo15lgn2jh8wy_1791102007401.jpg",
+    "src": "photos/a74.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/viva-belgrado",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a75",
+    "name": "John Talabot",
+    "image_url": "https://assets.primaverasound.com/psweb/v0layr4o1s6gzwtdh73v_1790955123038.jpg",
+    "src": "photos/a75.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/john-talabot",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a76",
+    "name": "Full of Hell",
+    "image_url": "https://assets.primaverasound.com/psweb/onrazgvzels07hw984od_1750056865063.jpg",
+    "src": "photos/a76.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/full-of-hell",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a77",
+    "name": "Mabe Fratti",
+    "image_url": "https://assets.primaverasound.com/psweb/3ws8z475z0q4kdcimirs_1791131854569.jpeg",
+    "src": "photos/a77.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/mabe-fratti",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a78",
+    "name": "Dame Area",
+    "image_url": "https://assets.primaverasound.com/psweb/vwzuyhkdc26x8e7lfqjy_1790942089895.jpg",
+    "src": "photos/a78.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/dame-area",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a79",
+    "name": "Dove Ellis",
+    "image_url": "https://assets.primaverasound.com/psweb/vctv2t3sgpzm1amlfqn1_1791103997097.jpg",
+    "src": "photos/a79.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/dove-ellis",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a80",
+    "name": "Guillem Gisbert",
+    "image_url": "https://assets.primaverasound.com/psweb/z8vtl2anif77o8kolenn_1790945706503.jpg",
+    "src": "photos/a80.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/guillem-gisbert",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a81",
+    "name": "Rebe",
+    "image_url": "https://assets.primaverasound.com/psweb/wv6cn0w06bw6x2wuq9ge_1790956227036.jpg",
+    "src": "photos/a81.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/rebe",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a82",
+    "name": "Mishima",
+    "image_url": "https://assets.primaverasound.com/psweb/y8ge8upfviphqss5k3r3_1791133376003.jpeg",
+    "src": "photos/a82.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/mishima",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a83",
+    "name": "Don Caballero",
+    "image_url": "https://assets.primaverasound.com/psweb/rwzqvbfepz5imnacihch_1791102868931.jpeg",
+    "src": "photos/a83.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/don-caballero",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a84",
+    "name": "Jesu",
+    "image_url": "https://assets.primaverasound.com/psweb/tl8kfzx6mtv7d2s0f1ps_1791113110644.jpeg",
+    "src": "photos/a84.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/jesu",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a85",
+    "name": "Simian Mobile Disco",
+    "image_url": "https://assets.primaverasound.com/psweb/1tg9vhmckq91khg6zh0n_1791103279381.jpeg",
+    "src": "photos/a85.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/simian-mobile-disco",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a86",
+    "name": "S.A.S.S. (Saoirse, Moxie, Peach, Shanti Celeste)",
+    "image_url": "https://assets.primaverasound.com/psweb/toig46gc2p1srpmbwvhw_1791207453910.jpeg",
+    "src": "photos/a86.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/s-a-s-s",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a87",
+    "name": "Aeronave Adolescente",
+    "image_url": "https://assets.primaverasound.com/psweb/1ssupgn5s9zw5pixy0sq_1791099765421.jpeg",
+    "src": "photos/a87.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/aeronave-adolescente",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a88",
+    "name": "Alex vs Alex",
+    "image_url": "https://assets.primaverasound.com/psweb/e3jf62yma4ayswp27zut_1791100363726.jpg",
+    "src": "photos/a88.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/alex-vs-alex",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a89",
+    "name": "Al·lèrgiques al Pol·len",
+    "image_url": "https://assets.primaverasound.com/psweb/bhxfjtzpqirrv6rejxe1_1791100510067.jpg",
+    "src": "photos/a89.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/allergiques-al-pollen",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a90",
+    "name": "Andy Stott live",
+    "image_url": "https://assets.primaverasound.com/psweb/pfx0iqknpshf4rtkyocb_1791208524678.jpg",
+    "src": "photos/a90.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/andy-stott",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a91",
+    "name": "Axolotes Mexicanos",
+    "image_url": "https://assets.primaverasound.com/psweb/ufxog9ku10489tyncbbc_1791100694536.jpg",
+    "src": "photos/a91.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/axolotes-mexicanos",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a92",
+    "name": "Boygirl",
+    "image_url": "https://assets.primaverasound.com/psweb/gbinxowqe2rzgus8mxwe_1791100767245.jpg",
+    "src": "photos/a92.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/b0yg1rl",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a93",
+    "name": "Bae Bae",
+    "image_url": "https://assets.primaverasound.com/psweb/k327byq7sne8l6zuci4m_1791100854134.JPG",
+    "src": "photos/a93.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/bae-bae",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a94",
+    "name": "Bashkka b2b Mike",
+    "image_url": "https://assets.primaverasound.com/psweb/xxl2dj3ynwqqwm81c7kl_1791201352237.jpg",
+    "src": "photos/a94.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/bashkka-b2b-mike-servito",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a95",
+    "name": "Servito",
+    "image_url": "https://assets.primaverasound.com/psweb/xxl2dj3ynwqqwm81c7kl_1791201352237.jpg",
+    "src": "photos/a95.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/bashkka-b2b-mike-servito",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a96",
+    "name": "Blackhaine",
+    "image_url": "https://assets.primaverasound.com/psweb/ktj584gaybedem2vfn8v_1790941479121.jpeg",
+    "src": "photos/a96.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/blackhaine",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a97",
+    "name": "Blanco Palamera",
+    "image_url": "https://assets.primaverasound.com/psweb/mlmw8p4lqh5gp6azlrev_1791209187930.jpeg",
+    "src": "photos/a97.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/blanco-palamera",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a98",
+    "name": "Blaya",
+    "image_url": "https://assets.primaverasound.com/psweb/674n5j2z9x6zuu89liry_1791101732906.png",
+    "src": "photos/a98.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/blaya",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a99",
+    "name": "Carlos de Jacoba & Ciutat",
+    "image_url": "https://assets.primaverasound.com/psweb/q73t5oobz8hvb8vfxtzi_1791202371684.jpg",
+    "src": "photos/a99.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/carlos-de-jacoba-and-ciutat",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a100",
+    "name": "Carmen Villain live",
+    "image_url": "https://assets.primaverasound.com/psweb/z3n4jsrshobjuswbbkbf_1791101878009.JPG",
+    "src": "photos/a100.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/carmen-villain",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a101",
+    "name": "Carré",
+    "image_url": "https://assets.primaverasound.com/psweb/eyjcs5cuid9i8pmkhieu_1791202555274.jpeg",
+    "src": "photos/a101.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/carre",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a102",
+    "name": "Dani Dicostas",
+    "image_url": "https://assets.primaverasound.com/psweb/rd3wch4g7ajxv6exslxg_1791209773146.jpg",
+    "src": "photos/a102.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/dani-dicostas",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a103",
+    "name": "Decoder",
+    "image_url": "https://assets.primaverasound.com/psweb/wdzcg66tzwqlbwvg2tud_1791102594493.jpeg",
+    "src": "photos/a103.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/decoder",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a104",
+    "name": "Dulce",
+    "image_url": "https://assets.primaverasound.com/psweb/164tflo2wxl3iz0mg1yc_1791104087013.jpeg",
+    "src": "photos/a104.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/dulce",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a105",
+    "name": "Eden Aurelius",
+    "image_url": "https://assets.primaverasound.com/psweb/xiik720ue5zuk0yxmxqf_1791110117682.jpg",
+    "src": "photos/a105.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/eden-aurelius",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a106",
+    "name": "El Buen Hijo",
+    "image_url": "https://assets.primaverasound.com/psweb/kod0lbqg4qkjxj1qbek8_1791110359320.webp",
+    "src": "photos/a106.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/el-buen-hijo",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a107",
+    "name": "Fades",
+    "image_url": "https://assets.primaverasound.com/psweb/ewi20km7x8mrfur5ssgw_1791110850381.jpg",
+    "src": "photos/a107.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/fades",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a108",
+    "name": "DJ Fra",
+    "image_url": "https://assets.primaverasound.com/psweb/2nelfkvflolxtrzu2kfx_1791210173656.jpeg",
+    "src": "photos/a108.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/dj-fra",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a109",
+    "name": "Gazella",
+    "image_url": "https://assets.primaverasound.com/psweb/n80847bu9c0s22xlp17s_1791112039662.jpeg",
+    "src": "photos/a109.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/gazella",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a110",
+    "name": "Headache",
+    "image_url": "https://assets.primaverasound.com/psweb/b72p9y9ql9b2trs8myl4_1791112558810.jpg",
+    "src": "photos/a110.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/headache",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a111",
+    "name": "Ibrahim Alfa Jnr",
+    "image_url": "https://assets.primaverasound.com/psweb/g6jdl12wpvf62gplnia0_1791112837492.jpg",
+    "src": "photos/a111.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/ibrahim-alfa-jnr",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a112",
+    "name": "Irenegarry",
+    "image_url": "https://assets.primaverasound.com/psweb/3dut8xpdrvwaewcz8fmy_1791202651787.jpeg",
+    "src": "photos/a112.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/irene-garry",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a113",
+    "name": "Jump Source live",
+    "image_url": "https://assets.primaverasound.com/psweb/l83l378ayld7aslnzzxm_1791113230744.jpg",
+    "src": "photos/a113.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/jump-source",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a114",
+    "name": "Klara Lewis",
+    "image_url": "https://assets.primaverasound.com/psweb/hdnvw670dnj970dj7irx_1791130364731.jpg",
+    "src": "photos/a114.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/klara-lewis",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a115",
+    "name": "Livwutang b2b Konduku",
+    "image_url": "https://cdn.prod.website-files.com/63e34fc74c3f737b5c64cbab/691781c13ec75d78a5d9524a_LIVWUTANG07byGuarionexRodriguezJr.jpg",
+    "src": "photos/a115.jpg",
+    "source_url": "https://www.minor-am.com/roster/livwutang",
+    "credit": "Foto: Livwutang: Guarionex Rodriguez Jr. / Minor AM; Konduku: FrameWorks Agency press photo",
+    "source_urls": [
+      "https://www.minor-am.com/roster/livwutang",
+      "https://www.frameworks-agency.com/konduku"
+    ]
+  },
+  {
+    "artist_id": "a116",
+    "name": "Loradeniz",
+    "image_url": "https://assets.primaverasound.com/psweb/hsek94r7nhvzt8bod4l5_1791131214390.jpeg",
+    "src": "photos/a116.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/loradeniz",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a117",
+    "name": "Lux Lisbon",
+    "image_url": "https://i1.sndcdn.com/avatars-xK0X2MDGIUDT5Tcs-3EWOaw-t500x500.jpg",
+    "src": "photos/a117.jpg",
+    "source_url": "https://soundcloud.com/dj-lux-lisbon",
+    "credit": "Foto: Lux Lisbon / official SoundCloud profile"
+  },
+  {
+    "artist_id": "a118",
+    "name": "Mad Miran b2b DJ Zero",
+    "image_url": "https://assets.primaverasound.com/psweb/d9md255hixhbotrmg3sp_1791204712211.jpg",
+    "src": "photos/a118.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/mad-miran-b2b-dj-zero",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a119",
+    "name": "Madra Salach",
+    "image_url": "https://assets.primaverasound.com/psweb/8ct1z4w3itryj0r1vpzv_1791131936214.jpg",
+    "src": "photos/a119.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/madra-salach",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a120",
+    "name": "Malibu",
+    "image_url": "https://assets.primaverasound.com/psweb/des48d7ed8j3h1gfeetu_1791132118270.jpeg",
+    "src": "photos/a120.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/malibu",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a121",
+    "name": "Mark Fell & RP Boo live",
+    "image_url": "https://assets.primaverasound.com/psweb/e3qct55m74ja56ylo8zx_1791205632707.jpg",
+    "src": "photos/a121.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/mark-fell-and-rp-boo",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a122",
+    "name": "Marta Salogni live",
+    "image_url": "https://assets.primaverasound.com/psweb/5ga8152pzw8yvujzod3y_1791132312591.jpg",
+    "src": "photos/a122.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/marta-salogni",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a123",
+    "name": "Memory Palace",
+    "image_url": "https://assets.primaverasound.com/psweb/gg499z8cf4kfosd8ws5a_1791132501969.jpg",
+    "src": "photos/a123.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/memory-palace",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a124",
+    "name": "Mori",
+    "image_url": "https://assets.primaverasound.com/psweb/jod9gken7p9pnmsutp7w_1674486139420.jpeg",
+    "src": "photos/a124.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/mori",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a125",
+    "name": "Naone",
+    "image_url": "https://assets.primaverasound.com/psweb/mo0sdlvqaq7l02yn9e8s_1791133991117.jpg",
+    "src": "photos/a125.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/naone",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a126",
+    "name": "Napa",
+    "image_url": "https://assets.primaverasound.com/psweb/a6fbdebm71w50a3vu3io_1791134324421.jpeg",
+    "src": "photos/a126.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/napa",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a127",
+    "name": "Oceanic (live A/V)",
+    "image_url": "https://assets.primaverasound.com/psweb/gg2qngwdn3wthujc9hfv_1791134384618.jpg",
+    "src": "photos/a127.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/oceanic",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a128",
+    "name": "Perfecto Miserable",
+    "image_url": "https://assets.primaverasound.com/psweb/k0kcopgudcmdbb2u6jdc_1779803953256.jpg",
+    "src": "photos/a128.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/perfecto-miserable",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a130",
+    "name": "PISS",
+    "image_url": "https://assets.primaverasound.com/psweb/gyttt9rlqig8r48x2z6u_1791103818673.jpg",
+    "src": "photos/a130.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/piss",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a131",
+    "name": "Plo Man",
+    "image_url": "https://assets.primaverasound.com/psweb/4cq0lhq248riwqg83sky_1791103687064.jpeg",
+    "src": "photos/a131.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/plo-man",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a132",
+    "name": "Pole 1 2 3",
+    "image_url": "https://assets.primaverasound.com/psweb/b7ddmqwbosyh8wil720d_1791103528708.jpg",
+    "src": "photos/a132.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/pole-1-2-3",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a133",
+    "name": "Polygonia live",
+    "image_url": "https://assets.primaverasound.com/psweb/w5ed0j6rki69p9sj58uu_1791103435395.jpg",
+    "src": "photos/a133.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/polygonia",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a134",
+    "name": "Prostitute",
+    "image_url": "https://assets.primaverasound.com/psweb/4wwpimxku2tqfyuhq9ld_1791103382238.jpeg",
+    "src": "photos/a134.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/prostitute",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a135",
+    "name": "Roly Porter",
+    "image_url": "https://assets.primaverasound.com/psweb/w7i9sh7qtccg5vcf3dmt_1791134858167.jpg",
+    "src": "photos/a135.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/roly-porter",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a136",
+    "name": "DJ /Rupture",
+    "image_url": "https://assets.primaverasound.com/psweb/cek0syuwzvlamm1u51gf_1791102720244.jpg",
+    "src": "photos/a136.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/dj-rupture",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a137",
+    "name": "Sky H1 live",
+    "image_url": "https://assets.primaverasound.com/psweb/cgkjl8n6f1z4ov8tjn1w_1791103219365.jpg",
+    "src": "photos/a137.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/sky-h1",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a138",
+    "name": "Sonido",
+    "image_url": "https://assets.primaverasound.com/psweb/hgqavcwjxzwl6pkbrvk8_1791206563770.jpg",
+    "src": "photos/a138.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/sonido-underground-dngdngdng-and-phran",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a139",
+    "name": "Underground: DNGDNGDNG & Phran",
+    "image_url": "https://assets.primaverasound.com/psweb/hgqavcwjxzwl6pkbrvk8_1791206563770.jpg",
+    "src": "photos/a139.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/sonido-underground-dngdngdng-and-phran",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a140",
+    "name": "DJ Stingray 313 live",
+    "image_url": "https://assets.primaverasound.com/psweb/pe4hnnev9hcv9pfbpe4k_1790943881677.jpeg",
+    "src": "photos/a140.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/stingray-313",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a141",
+    "name": "Tatyana Jane",
+    "image_url": "https://assets.primaverasound.com/psweb/x4d4rgslfsymzrxp2gm2_1791103116676.jpg",
+    "src": "photos/a141.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/tatyana-jane",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a142",
+    "name": "Tirzah",
+    "image_url": "https://assets.primaverasound.com/psweb/w0jz0bwnm1torkpb2lkv_1790955024519.jpg",
+    "src": "photos/a142.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/tirzah",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a143",
+    "name": "Tracey",
+    "image_url": "https://assets.primaverasound.com/psweb/7125hq93l7othtdmx1vd_1791102863383.jpg",
+    "src": "photos/a143.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/tracey",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a144",
+    "name": "Trickpony",
+    "image_url": "https://assets.primaverasound.com/psweb/n1yvp9wnzbcmz6rf7ipo_1791102643485.jpg",
+    "src": "photos/a144.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/trickpony",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a145",
+    "name": "Tristán",
+    "image_url": "https://assets.primaverasound.com/psweb/2hn3kru6fes0h2jnxncd_1790954701978.jpg",
+    "src": "photos/a145.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/tristan",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a146",
+    "name": "Tissfu",
+    "image_url": "https://assets.primaverasound.com/psweb/g469kkjxjs4rxvld9l0w_1791102521285.jpg",
+    "src": "photos/a146.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/ttssfu",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a147",
+    "name": "Twisted Teens",
+    "image_url": "https://assets.primaverasound.com/psweb/5kcmzpkxhgwe9akx0f88_1791102059193.jpeg",
+    "src": "photos/a147.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/twisted-teens",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a148",
+    "name": "Verushka b2b Acidheaven",
+    "image_url": "https://assets.primaverasound.com/psweb/0vfgk008qvj7nrhpjeat_1791206994148.jpg",
+    "src": "photos/a148.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/verushka-b2b-acidheaven",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a149",
+    "name": "Victoryland",
+    "image_url": "https://assets.primaverasound.com/psweb/7wxfjb3x0vo71ph1ctlv_1791102200246.jpg",
+    "src": "photos/a149.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/victoryland",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a150",
+    "name": "Warning",
+    "image_url": "https://assets.primaverasound.com/psweb/72v5fre3jjeotfq1ib44_1791101879970.jpeg",
+    "src": "photos/a150.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/warning",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a152",
+    "name": "Four Tet",
+    "image_url": "https://assets.primaverasound.com/psweb/am18xb5n62vq2fg59e4w_1790945107537.jpg",
+    "src": "photos/a152.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/four-tet",
+    "credit": "Foto: Primavera Sound"
+  },
+  {
+    "artist_id": "a153",
+    "name": "Dixon",
+    "image_url": "https://assets.primaverasound.com/psweb/ofi8hqaib6cyic1u7xgk_1790944998819.jpg",
+    "src": "photos/a153.jpg",
+    "source_url": "https://www.primaverasound.com/en/artist/dixon",
+    "credit": "Foto: Primavera Sound"
+  }
+]
